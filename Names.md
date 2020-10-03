@@ -22,8 +22,3 @@ Daksh Jain
 Developer|Technical Consultant and an ardent fan of Real Madrid :)
 DakshJn
 ```
-<<<<<<< main
-=======
-
-
->>>>>>> main
