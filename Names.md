@@ -13,14 +13,11 @@ Developer|Designer and a ~music listening hobbist?~.
 ```
 #### 3
 ```
-<<<<<<< main
-=======
 Karthikeyan Rathore
 Developer|Love Hacking and Video editing.
 ```
 #### 4
 ```
->>>>>>> main
 Daksh Jain
 Developer|Technical Consultant and an ardent fan of Real Madrid :)
 DakshJn
