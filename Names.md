@@ -53,3 +53,9 @@ Alok Tripathi
 Student at JIIT|Competitive Programming|Learning GCP
 Tripathi-Alok
 ```
+##### 11
+```
+Utsav Kansal
+Developer| Machine Learning Analyst
+UtsavKansal
+```
