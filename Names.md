@@ -56,6 +56,6 @@ Tripathi-Alok
 ##### 11
 ```
 Gautam Ashish Goyal
-Student at BU |Competitive Programming|Learning Cloud.
+Student at BU |Competitive Programming|Learning Cloud
 gautamashishgoyal
 ```
