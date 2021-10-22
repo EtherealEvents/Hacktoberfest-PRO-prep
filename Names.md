@@ -53,7 +53,7 @@ Alok Tripathi
 Student at JIIT|Competitive Programming|Learning GCP
 Tripathi-Alok
 ```
-##### 10
+##### 11
 ```
 Gautam Ashish Goyal
 Student at BU|Competitive Programming|Learning Cloud
