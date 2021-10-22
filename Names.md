@@ -111,7 +111,7 @@ anmolarora.netlify.app
 ##### 20
 '''
 Patil Shrivardhan Chandrakant
-IITian, Student at IIT BHU CSE
-learner in Web and App development
-interested in Open Source and Competitive Programming.
+<br> IITian, Student at IIT BHU CSE
+<br> learner in Web and App development
+<br> interested in Open Source and Competitive Programming.
 '''
