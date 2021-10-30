@@ -30,6 +30,8 @@ print("Student| Learning a lot day by day zomsik")
 
 print("Sunisth Kumar Developer | Student Researcher ksunisth")
 
-print(" Ashok Kumar J | Robotics Developer, Computer Vision researcher")
+print("Ashok Kumar J | Robotics Developer, Computer Vision researcher")
 
-print(" Anmol Arora | Web & DApp Developer")
+print("Anmol Arora | Web & DApp Developer")
+
+print("Pooja Kanojia | Full stack and ML researcher")
