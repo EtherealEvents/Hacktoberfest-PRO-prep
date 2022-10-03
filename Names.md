@@ -4,7 +4,7 @@
 ```
 Aaryan Kapur
 Developer, entrepeneur with a knack for problem solving.
-aaryankapur.tech
+https://www.aaryankapur.tech
 ```
 #### 2
 ```
